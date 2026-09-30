@@ -1,0 +1,6 @@
+{
+  "name": "Callshield - Family Scam Call Protection",
+  "description": "CallShield actively blocks fraudulent, spoofed, and scam calls in the background with real-time alerts, family key protection, and cross-device safety monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
